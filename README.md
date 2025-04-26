@@ -384,24 +384,28 @@ Reinicie o sistema e aproveite a coletânea MyMacQt =)
 
 ---
 
-# Bônus do MyMacQt
-Tutorial completo em vídeo:
-https://youtu.be/vXqN42TWU9E
+# Apoio e Divulgação
+Esse projeto foi originalmente lançado em [Hacking Force](https://blog.hackingforce.com.br/pt/mymacqt)
 
-Todos os arquivos e presets utilizados:
-https://github.com/MyMacQt/mymacqt
+---
+
+# Bônus do MyMacQt
+[Tutorial completo em vídeo](https://youtu.be/vXqN42TWU9E)
+
+
+[Todos os arquivos e presets utilizados](https://github.com/emmyvinte/mymacqt)
 
 Precisa de ajuda? Abra uma **New issue** no GitHub da coletânea.
 
 ---
 
 # Créditos
-https://manjaro.org/
+[manjaro](https://manjaro.org/)
 
-https://github.com/vinceliuice (WhiteSur-gtk-theme, WhiteSur-icon-theme, MacSonoma-kde Kvantum)
+[WhiteSur-gtk-theme, WhiteSur-icon-theme, MacSonoma-kde Kvantum](https://github.com/vinceliuice)
 
-https://store.kde.org/u/zayronXIO (Apple Monterey Dark 5.27 or superior)
+[Apple Monterey Dark 5.27 or superior](https://store.kde.org/u/zayronXIO)
 
-https://store.kde.org/u/vinceliuice (MacSonoma KDE Dark theme, WhiteSur Gtk theme, Monterey sddm theme)
+[MacSonoma KDE Dark theme, WhiteSur Gtk theme, Monterey sddm theme](https://store.kde.org/u/vinceliuice)
 
-https://github.com/matinlotfali (KDE Rounded Corners)
+[KDE Rounded Corners](https://github.com/matinlotfali)
