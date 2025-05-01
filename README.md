@@ -1,3 +1,6 @@
+# Atenção
+Última atualização do repositório foi em 22/01/2024, em breve uma nova versão 2025 virá!
+
 # Apresentação
 
 Olá, sou o M20. Um entusiasta de Linux e amante da customização de interfaces gráficas. Nesse artigo irei lhe apresentar o caminho das pedras para sair de um KDE plasma padrão:
